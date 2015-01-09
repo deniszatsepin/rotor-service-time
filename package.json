@@ -1,6 +1,6 @@
 {
   "name": "rotor-service-time",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Time service for Rotor engine.",
   "main": "index.js",
   "scripts": {
